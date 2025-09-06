@@ -23,3 +23,5 @@ def test_calculate_logarithm_with_negative_number():
                           (7, 8, 15)])
 def test_add(x, y, expected):
     assert x + y == expected
+
+
